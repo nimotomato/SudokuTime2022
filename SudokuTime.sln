@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudokuTime", "qweqwtfw\SudokuTime.csproj", "{E3F196AC-ACAF-4EC2-BBD3-21EE62AAC058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudokuTime", "SudokuTime2022\SudokuTime.csproj", "{E3F196AC-ACAF-4EC2-BBD3-21EE62AAC058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
